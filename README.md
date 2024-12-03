@@ -3,7 +3,7 @@
 
 **Link to Original Website:**
 
- ![Screenshot_2024-12-03-16-35-51-97_f9ee0578fe1cc94de7482bd41accb329](https://github.com/user-attachments/assets/b619ec1d-59e7-4213-b196-ac10170edf7d)
+![{7DFB1D28-E86C-41B8-BD8E-B3129D1BF867}](https://github.com/user-attachments/assets/1c238de3-5884-459e-ab54-b76f13fa1441)
 
 
 **Cloned Website ScreenShot:**
