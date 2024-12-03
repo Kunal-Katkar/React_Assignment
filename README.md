@@ -8,5 +8,5 @@
 
 **Cloned Website ScreenShot:**
 
-
-![image](https://github.com/user-attachments/assets/a3e0609d-7c72-437b-9fbb-34a854391a35)
+->
+![{1E2877DC-94A7-48EA-A41E-8758DF4F5D7C}](https://github.com/user-attachments/assets/2e42f3e7-a7ba-433a-adf8-b95951832b53)
