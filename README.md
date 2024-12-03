@@ -1,4 +1,4 @@
-# Spotify-Clone-React.js-
+# Spotify Clone Using React and Tailwind
 
 
 Link to Original Website:
