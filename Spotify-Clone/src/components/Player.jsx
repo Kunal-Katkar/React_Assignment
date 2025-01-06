@@ -20,9 +20,9 @@ const Player = () => {
                 
             </div>
             <div className='flex items-center gap-5 '>
-                <p >1:05</p>
+                <p >2:10</p>
                 <div className='w-[60vw] max-w-[500px] bg-gray-300 rounded-full cursor-pointer'>
-                    <hr className='h-1 border-none w-[30%] bg-green-800 rounded-full'/>
+                    <hr className='h-1 border-none w-[50%] bg-green-900 rounded-full'/>
                 </div>
                 <p>3:20</p>
 

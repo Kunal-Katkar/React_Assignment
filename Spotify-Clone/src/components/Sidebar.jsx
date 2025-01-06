@@ -35,7 +35,9 @@ function Sidebar() {
                     <button className="px-4 py-1.5 bg-white text-[15px] text-black rounded-full mt-4">Browse podcast</button>
                  </div>
         </div>
+        
      </div>
+     
     
   )
 }
